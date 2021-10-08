@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<testsuite errors="0" failures="0" name="DefaultSuite" skips="0" tests="1" time="0.016" timestamp="2021-10-08 15:11:33.641000">
+		<testcase classname="calculator_test.PTestClass" name="test" time="0.008"/>
+	</testsuite>
